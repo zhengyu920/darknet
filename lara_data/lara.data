@@ -1,0 +1,5 @@
+classes= 3
+train  = /home/yu/darknet/lara_data/train.txt
+valid  = /home/yu/darknet/lara_data/valid.txt
+names = lara_data/lara.names
+backup = /media/yu/Data/lara_backup
