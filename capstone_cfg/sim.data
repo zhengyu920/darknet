@@ -1,0 +1,5 @@
+classes= 3
+train  = /Users/yzheng1/darknet/capstone_data/dataset-sdcnd-capstone/data/sim_training_data/train.txt
+valid  = /Users/yzheng1/darknet/capstone_data/dataset-sdcnd-capstone/data/sim_training_data/valid.txt
+names = /Users/yzheng1/darknet/capstone_cfg/sim.names
+backup = /Users/yzheng1/darknet/capstone_backup
